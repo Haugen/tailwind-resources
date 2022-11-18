@@ -14,6 +14,8 @@ Sometimes we want a head start with our Tailwind development. This list provides
 - tailwindUI, https://tailwindui.com/
 - tailwind components, https://tailwindcomponents.com/
 - NativeWind (React Native), https://www.nativewind.dev/
+- Tailblocks, https://tailblocks.cc/
+- XtendUI, https://xtendui.com/
 
 ## Headless components
 
@@ -27,3 +29,14 @@ If you don't want a full fledged UI library, you might try a headless UI package
 The Tailwind documentation is great, but sometimes you want more resources to learn and improve your knowledge with Tailwind.
 
 - Tailwind Labs, https://www.youtube.com/c/TailwindLabs
+- ProTailwind, https://www.protailwind.com/
+
+## Tools
+
+Helper tools, playground, animations, gradient generators, etc.
+
+- Playground, https://play.tailwindcss.com/
+- CSS-to-Tailwind converter, https://tailwind-converter.netlify.app/
+- Color gradient playground, https://gradient-designer.csspost.com/
+- Hypercolor (more Tailwind color gradients), https://hypercolor.dev/
+- Tailanimista, https://tail-animista.vercel.app/
