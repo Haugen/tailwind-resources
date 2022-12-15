@@ -16,6 +16,11 @@ Sometimes we want a head start with our Tailwind development. This list provides
 - NativeWind (React Native), https://www.nativewind.dev/
 - Tailblocks, https://tailblocks.cc/
 - XtendUI, https://xtendui.com/
+- FloatUI, https://floatui.com/
+- Tailwind Widgets, https://tailwindwidgets.com/
+- MambaUI, https://mambaui.com/
+- Kitwind, https://kitwind.io/
+- Kutty, https://kutty.netlify.app/
 
 ## Headless components
 
