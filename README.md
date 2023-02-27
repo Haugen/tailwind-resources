@@ -21,6 +21,7 @@ Sometimes we want a head start with our Tailwind development. This list provides
 - MambaUI, https://mambaui.com/
 - Kitwind, https://kitwind.io/
 - Kutty, https://kutty.netlify.app/
+- RippleUI, https://www.ripple-ui.com/
 
 ## Headless components
 
